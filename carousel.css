@@ -12,6 +12,10 @@ body {
 -------------------------------------------------- */
 
 /* Special class on .container surrounding .navbar, used for positioning it into place. */
+.navbar-static-top {
+  margin-bottom: 19px;
+}
+
 .navbar-wrapper {
   position: absolute;
   top: 0;
